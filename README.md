@@ -1,3 +1,5 @@
 # testMessanger
-this branch was created for test branching in github
-i wanted test whta is master branch and merge
+this branch was created for test branching in github.
+I wanted test what is master branch and merge.
+I merged first branch with master.
+
