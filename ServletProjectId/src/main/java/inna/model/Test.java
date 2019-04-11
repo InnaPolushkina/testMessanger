@@ -14,15 +14,8 @@ public class Test {
     public int getId() {
         return id;
     }
-
-    public void setId(int id) {
-        this.id = id;
+    public void met() {
+        System.out.println("Hello");
     }
 
-    @Override
-    public String toString() {
-        return "Test{" +
-                "id=" + id +
-                '}';
-    }
 }
